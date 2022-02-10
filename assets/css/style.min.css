@@ -421,9 +421,9 @@ a:hover {
   }
   .show-sidebar .sidebar {
     transform: translateX(0);
-    -webkit-box-shadow: 40px 100px 0px 100px rgba(0, 0, 0, 0.5);
-    -moz-box-shadow: 40px 100px 0px 100px rgba(0, 0, 0, 0.5);
-    box-shadow: 40px 100px 0px 100px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 40px 100px 0px 600px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 40px 100px 0px 600px rgba(0, 0, 0, 0.5);
+    box-shadow: 40px 100px 0px 600px rgba(0, 0, 0, 0.5);
   }
 }
 
